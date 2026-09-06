@@ -1,4 +1,4 @@
-# Computational Mathematics for ML: Calculus + Linear Algebra Syllabus
+# Computational Mathematics for ML: Calculus + Linear Algebra Course Outline
 
 ## Goal
 
