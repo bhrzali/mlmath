@@ -1,0 +1,12 @@
+# Local brainstorming notes
+docs_local/
+
+# OS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
